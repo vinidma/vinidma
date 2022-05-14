@@ -10,10 +10,10 @@
   <img align="center" alt="Vini-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vini-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="right" alt="Vini-gif" height="150" style="border-radius:50%" src="https://user-images.githubusercontent.com/105218129/168435876-73036a85-abfa-402e-9e27-767b7c0e3582.gif">
 </div>
 
-  ##
- 
+
  <div>
   
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-dinis-249023234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
