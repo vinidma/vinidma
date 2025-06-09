@@ -73,28 +73,6 @@
 
 ---
 
-### 💻 Meus Projetos de Análise de Dados
-<table>
-  <thead>
-    <tr>
-      <th>Projeto</th>
-      <th>Descrição</th>
-      <th>Tecnologias</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="#"><strong>Em breve: Novo Projeto de Análise</strong></a></td>
-      <td>Estou atualmente trabalhando em um projeto de análise exploratória. Mais detalhes em breve!</td>
-      <td>Python, Pandas</td>
-    </tr>
-  </tbody>
-</table>
-
-<img src="https://github-contribution-grid-snake.vercel.app/api?user=vinidma&theme=aura" alt="snake contribution grid" />
-
----
-
 ### 📫 Como me encontrar
 <p align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-dinis-249023234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
